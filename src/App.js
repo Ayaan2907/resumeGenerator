@@ -1,7 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 import Form from "./components/Form";
-import ResumeList from "./components/ResumeList";
+import ResumeList from "./components/List/ResumeList";
 function App() {
   return (
     <div className="App">
